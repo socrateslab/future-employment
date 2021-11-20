@@ -1,0 +1,831 @@
+skill_name,skill_id,cluster_id,cluster_representative,candidate_confidence
+ability to working with groups of people,445,0,people skills,nan
+people skills,340,0,people skills,0.9667756824
+ability to work effectively with people,829,0,people skills,nan
+people oriented,207,0,people skills,0.7398125569
+ability to work with people,775,0,people skills,nan
+ability to work with others,688,0,people skills,nan
+commitment to the wellbeing of children,493,1,ability to work with children,nan
+willingness to work with youth,603,1,ability to work with children,nan
+ability to work with children,576,1,ability to work with children,nan
+ability to motivate people,319,2,motivating,nan
+ability to motivate others,85,2,motivating,nan
+motivating,752,2,motivating,0.9066968125
+ability to motivate,480,2,motivating,0.9414009331
+ability to present proposals,396,3,proposal writing,nan
+proposal writing,828,3,proposal writing,0.7287409383
+proposal writing skills,288,3,proposal writing,0.9688354902
+willing to obtain new skills,262,4,willingness to obtain new knowledge,nan
+willingness to obtain new knowledge,611,4,willingness to obtain new knowledge,nan
+willingness to obtain new skills,374,4,willingness to obtain new knowledge,nan
+ability to apply the gained knowledge,484,4,willingness to obtain new knowledge,nan
+ability to lead and supervise,631,5,leadership,nan
+leadership ability,195,5,leadership,0.9682086099
+leadership skills,476,5,leadership,0.9717429444
+supervisory skills,366,5,leadership,0.9399956166
+ability to direct the work,250,5,leadership,nan
+skills to lead effective staff,598,5,leadership,nan
+ability to lead people,67,5,leadership,nan
+leadership,326,5,leadership,0.8744037564
+supervision skills,223,5,leadership,0.9690807876
+solution oriented,220,6,results driven,0.8831245039
+goal oriented,256,6,results driven,0.7900101128
+results driven,608,6,results driven,0.8249867214
+results oriented,406,6,results driven,0.7066709931
+results orientation,492,6,results driven,0.8777826975
+action oriented,474,6,results driven,0.8211264672
+goaloriented,728,6,results driven,0.9072152983
+goals oriented,636,6,results driven,1
+result oriented,573,6,results driven,1
+ability for results orientation,4,6,results driven,nan
+open to change,393,7,open minded,0.9372064132
+open minded,361,7,open minded,0.9395735199
+openness for new experience,496,7,open minded,nan
+open to new ideas,328,7,open minded,nan
+openminded,552,7,open minded,0.9072389328
+logical abilities,681,8,logical abilities,nan
+flexibility to perform other duties,183,9,willing to perform other duties,nan
+willing to perform other duties,662,9,willing to perform other duties,nan
+flexibility with working hours when necessary,377,10,flexible with hours,nan
+flexible with hours,266,10,flexible with hours,0.942590802
+able to adapt to flexible timelines,499,10,flexible with hours,nan
+willingness to work flexible hours,490,10,flexible with hours,nan
+willingness to be flexible with hours,647,10,flexible with hours,nan
+ability to adapt to flexible timelines,241,10,flexible with hours,nan
+flexible with work hours,529,10,flexible with hours,nan
+ability to work in a flexible schedule,122,10,flexible with hours,nan
+versatility,325,11,flexible,0.8239724113
+flexible,501,11,flexible,0.7589113234
+ability to be flexible,20,11,flexible,nan
+flexibility,537,11,flexible,0.8210264454
+work in pressure,358,12,ability to work under the pressure,0.8768136779
+willingness to work under pressure,261,12,ability to work under the pressure,nan
+willing to work under time pressure,532,12,ability to work under the pressure,nan
+flexibility to work under pressure,185,12,ability to work under the pressure,nan
+ability to function in a pressured work environment,270,12,ability to work under the pressure,nan
+ability to work under the pressure,382,12,ability to work under the pressure,nan
+capacity to work under pressure,417,12,ability to work under the pressure,nan
+efficient when under pressure,345,12,ability to work under the pressure,nan
+work under pressure,483,12,ability to work under the pressure,0.9452414158
+dedication to work hard under pressure,732,12,ability to work under the pressure,nan
+ability to work under pressure,766,12,ability to work under the pressure,nan
+ability to work under time pressure,585,12,ability to work under the pressure,nan
+able to work under pressure,500,12,ability to work under the pressure,nan
+ability to deliver under pressure,779,12,ability to work under the pressure,nan
+ability to cope with stress,41,13,ability to work in stressful situations,nan
+ability to work under stress,561,13,ability to work in stressful situations,nan
+work under stress,650,13,ability to work in stressful situations,1
+ability to work in stressful situations,128,13,ability to work in stressful situations,nan
+ability to work in a stressful environment,601,13,ability to work in stressful situations,nan
+hard working,569,14,hard working,0.9705705177
+hard worker,187,14,hard working,0.9386645005
+willing to work hard,780,14,hard working,nan
+able to work hard,363,14,hard working,nan
+hard working person,188,14,hard working,1
+hardworking,708,14,hard working,0.9378758055
+hardworker,781,14,hard working,0.9415483342
+ability to follow directions,473,15,ability to follow directions,nan
+ability to understand directions,649,15,ability to follow directions,nan
+able to understand detailed instructions,403,15,ability to follow directions,nan
+quick learning skills,333,16,learn quickly,1
+quick learning,827,16,learn quickly,0.9682231
+able to understand tasks quickly,145,16,learn quickly,nan
+quick learner,466,16,learn quickly,0.9717329892
+ability to learn quickly,336,16,learn quickly,nan
+quick to learn,324,16,learn quickly,0.9678223322
+quickly learn new technologies,590,16,learn quickly,nan
+ability to learn fast,453,16,learn quickly,nan
+learn quickly,196,16,learn quickly,1
+quick to learn new technologies,741,16,learn quickly,nan
+eager to learn,387,17,willingness to learn,0.7882352543
+enthusiastic to learn,181,17,willingness to learn,0.8803678879
+ability to learn,725,17,willingness to learn,0.9391447424
+learning skills,197,17,willingness to learn,0.8820749567
+ability to learn easily,71,17,willingness to learn,nan
+desire to learn,612,17,willingness to learn,0.9717033106
+desire to learn new things,177,17,willingness to learn,nan
+willing to learn new skills,391,17,willingness to learn,nan
+ability to learn authoring technologies,545,17,willingness to learn,nan
+willing to learn,315,17,willingness to learn,1
+willingness to learn,371,17,willingness to learn,1
+interest to learn,306,17,willingness to learn,0.9676461287
+ability to prevent problems,99,18,ability to anticipate problems,nan
+ability to anticipate problems,14,18,ability to anticipate problems,nan
+ability to anticipate and prevent problems,13,18,ability to anticipate problems,nan
+ability to identify problems,64,19,ability to identify problems,nan
+skill to describe problems,694,19,ability to identify problems,nan
+ability to articulate problems,16,19,ability to identify problems,nan
+ability to grasp a problem,57,19,ability to identify problems,nan
+ability to clearly articulate problems,26,19,ability to identify problems,nan
+ability to concisely articulate problems,35,19,ability to identify problems,nan
+ability to get fun solving technical problems,56,20,ability to get fun solving technical problems,nan
+ability to propose alternatives to problem solving,104,20,ability to get fun solving technical problems,nan
+ability to demonstrate creativity to problem solving,43,20,ability to get fun solving technical problems,nan
+problem solving orientation,274,21,problem solving,1
+problemsolving skills,653,21,problem solving,1
+problem solving abilities,782,21,problem solving,0.968593988
+problem solving skills,494,21,problem solving,1
+propose alternatives to problem solving,783,21,problem solving,nan
+problem solver,210,21,problem solving,0.9427590467
+ability to troubleshoot problems,332,21,problem solving,nan
+problemsolving attitude,448,21,problem solving,0.9416735388
+ability to problem solve independently,546,21,problem solving,nan
+ability to resolve difficult problems,751,21,problem solving,nan
+ability to resolve problems,457,21,problem solving,nan
+independent in problems solving,189,21,problem solving,nan
+problem solving,211,21,problem solving,0.9398006331
+problemsolving,212,21,problem solving,0.9384111688
+facilitating skills,435,22,facilitation skills,0.9351277052
+facilitation skills,540,22,facilitation skills,0.9705118301
+sensitivity to gender equity,217,23,respect for diversity,nan
+respect for diversity,765,23,respect for diversity,1
+commitment to gender equity,166,23,respect for diversity,nan
+commitment to work,165,24,commitment to work,0.8584862921
+personal commitment,208,24,commitment to work,0.7230253824
+courteous,661,25,courteous,0.8441755892
+courteous manner,525,25,courteous,0.9437373178
+ability to speak politely,438,26,polite,nan
+polite manners,236,26,polite,1
+polite,482,26,polite,0.9411600868
+work within a team,599,27,team player,nan
+commitment to teamwork,164,27,team player,0.8839908943
+team working skills,773,27,team player,0.9401354614
+team oriented,544,27,team player,0.7271953043
+ability to work as part of a team on multiple tasks,115,27,team player,nan
+a team oriented mentality,0,27,team player,nan
+interact with the team,193,27,team player,nan
+team based management style,771,27,team player,nan
+ability to work with multidisciplinary team,136,27,team player,nan
+ability to function as part of a team,734,27,team player,nan
+commitment to team approaches,472,27,team player,nan
+ability to work in international teams,126,27,team player,nan
+ability to motivate others in a team environment,84,27,team player,nan
+ability to work effectively with a diverse team,409,27,team player,nan
+ability to be part of a multicultural team,22,27,team player,nan
+able to work in a team,633,27,team player,nan
+ability to work as a member of a team,646,27,team player,nan
+team commitment,589,27,team player,0.7247840594
+capable of working as part of a team,390,27,team player,nan
+team interaction skills,465,27,team player,0.9347324462
+team work skills,687,27,team player,0.8213403947
+ability to work in team work based environment,785,27,team player,nan
+teamworker,231,27,team player,0.9131171247
+team worker,626,27,team player,0.8751592532
+ability to be a member of a team,17,27,team player,nan
+ability to work as a part of a team,703,27,team player,nan
+team work approach,228,27,team player,1
+working in a team,464,27,team player,nan
+capable of working as a part of a team,299,27,team player,nan
+team working ability,229,27,team player,nan
+team player,425,27,team player,0.8825113106
+ability to work as a team member,454,27,team player,nan
+teamwork approach,230,27,team player,0.8654991243
+ability to work as a part a team,300,27,team player,nan
+ability to work in a group,549,27,team player,nan
+ability to contribute to project teams,36,27,team player,nan
+ability to work in teamwork based environment,784,27,team player,nan
+team working abilities,289,27,team player,nan
+work in team,353,27,team player,0.7833988513
+ability to work in multidisciplinary teams,127,27,team player,nan
+ability to work in a team,285,27,team player,nan
+ability to work in team,311,27,team player,nan
+able to work as part of a team,657,27,team player,nan
+ability to work in a team while being selfdirected,125,27,team player,nan
+teamwork,539,27,team player,0.7237600294
+team spirit,764,27,team player,0.8155379013
+ability to be part of a big team,21,27,team player,nan
+ability to work cooperatively as part of a team,411,27,team player,nan
+ability to work in teamworkbased environment,707,27,team player,nan
+ability to work as a part of team,614,27,team player,nan
+ability to work in a team environment,124,27,team player,nan
+team work ability,672,27,team player,nan
+ability to work as part of a team,495,27,team player,nan
+ability to work as a team,503,27,team player,nan
+teamwork skills,686,27,team player,1
+service minded approach to work,431,28,service mentality,nan
+service mentality,786,28,service mentality,0.9140622397
+serviceminded approach to work,528,28,service mentality,nan
+ability to manage tasks independently,559,29,ability to manage tasks independently,nan
+ability to work on many tasks at the same time without supervision,787,29,ability to manage tasks independently,nan
+ability to execute complicated tasks with minimal supervision,252,29,ability to manage tasks independently,nan
+ability for multitasking under tight deadlines,3,30,ability to manage multiple tasks under tight deadlines,nan
+ability to manage multiple tasks under tight deadlines,392,30,ability to manage multiple tasks under tight deadlines,nan
+ability to handle multiple tasks under tight deadlines,711,30,ability to manage multiple tasks under tight deadlines,nan
+ability to handle simultaneous multiple projects,62,31,able to multitask,nan
+ability to perform multiple tasks at the same time,92,31,able to multitask,nan
+ability to multi task,86,31,able to multitask,nan
+willing to complete the given tasks,788,31,able to multitask,nan
+ability to complete multiple tasks,670,31,able to multitask,nan
+ability to handle a variety of tasks,446,31,able to multitask,nan
+ability to work on multiple tasks,258,31,able to multitask,nan
+ability to work independently on multiple tasks,131,31,able to multitask,nan
+multitasking skills,825,31,able to multitask,1
+ability to carry out numerous tasks,25,31,able to multitask,nan
+ability to handle multiple tasks,616,31,able to multitask,nan
+multitask oriented,201,31,able to multitask,0.8765661144
+ability to perform several activities at the same time,676,31,able to multitask,nan
+skills in managing tasks,531,31,able to multitask,nan
+manage multiple tasks,678,31,able to multitask,0.9680739198
+ability to juggle multiple projects simultaneously,627,31,able to multitask,nan
+undertake multiple tasks at the same time,233,31,able to multitask,nan
+ability to focus on multiple tasks,52,31,able to multitask,nan
+ability to handle multiple tasks simultaneously,59,31,able to multitask,nan
+ability to complete assigned tasks,32,31,able to multitask,nan
+ability to undertake multiple tasks,112,31,able to multitask,nan
+able to multitask,754,31,able to multitask,1
+ability to complete challenging tasks,323,31,able to multitask,nan
+flexibility to handle a variety of tasks and shift priorities simultaneously,291,31,able to multitask,nan
+flexibility to handle a variety of tasks simultaneously,182,31,able to multitask,nan
+ability to perform multiple tasks,718,31,able to multitask,nan
+ability to independently manage multiple projects at once,65,31,able to multitask,nan
+ability to complete multiple challenging tasks,721,31,able to multitask,nan
+flexibility to handle a variety of tasks,469,31,able to multitask,nan
+managing tasks,491,31,able to multitask,0.9414932921
+ability to manage multiple tasks,327,31,able to multitask,nan
+ability to prioritise workload activities,100,32,ability to prioritise tasks,nan
+ability to set priorities,508,32,ability to prioritise tasks,nan
+ability to prioritize competing tasks even under pressure,432,32,ability to prioritise tasks,nan
+able to prioritize,826,32,ability to prioritise tasks,0.9428868367
+ability to prioritize tasks,756,32,ability to prioritise tasks,nan
+ability to prioritize workload,101,32,ability to prioritise tasks,nan
+ability to prioritize,102,32,ability to prioritise tasks,1
+ability to prioritize work,669,32,ability to prioritise tasks,nan
+ability to prioritize multiple projects,460,32,ability to prioritise tasks,nan
+ability to prioritise tasks,575,32,ability to prioritise tasks,nan
+prioritization skills,789,32,ability to prioritise tasks,0.9709967887
+public relations skills,354,33,ability to develop relations,1
+ability to develop relations,242,33,ability to develop relations,nan
+human relations capacity,533,33,ability to develop relations,0.836769516
+ability to nurture relations,716,33,ability to develop relations,nan
+properly maintain relations with customers,557,33,ability to develop relations,nan
+adjust to demanding work,249,34,adjust to demanding work,nan
+ability to interpret,570,35,ability to interpret,0.9680162026
+interpretation skills,349,35,ability to interpret,1
+ability to work overtime,582,36,willingness to work overtime,nan
+willingness to work extended hours and weekends,368,36,willingness to work overtime,nan
+work irregular hours,401,36,willingness to work overtime,0.8482795024
+able to include shift work,276,36,willingness to work overtime,nan
+capacity to work for long hours,420,36,willingness to work overtime,nan
+willingness to adjust to demanding work schedule,761,36,willingness to work overtime,nan
+willingness to work long hours when required,246,36,willingness to work overtime,nan
+willing to work irregular hours,695,36,willingness to work overtime,nan
+able to work unusual work hours,715,36,willingness to work overtime,nan
+willing to work overtime,337,36,willingness to work overtime,nan
+willingness to work long hours,433,36,willingness to work overtime,nan
+ability for long working hours,2,36,willingness to work overtime,nan
+willingness to work long or unusual hours,424,36,willingness to work overtime,nan
+willingness to work overtime,419,36,willingness to work overtime,nan
+organisational skills,637,37,organisational skills,0.9509921258
+ability to organize the work,487,37,organisational skills,nan
+ability to plan and organize work for others,434,37,organisational skills,nan
+organizing skills,578,37,organisational skills,1
+organizational capabilities,517,37,organisational skills,1
+organization skills,519,37,organisational skills,1
+organizational skills,237,37,organisational skills,1
+ability to organize work,89,37,organisational skills,nan
+ability to organize tasks,443,37,organisational skills,nan
+organising skills,762,37,organisational skills,0.9699450813
+ability to organize,459,37,organisational skills,1
+organizer,723,37,organisational skills,0.738241054
+negotiation skills,386,38,negotiation skills,1
+ability to negotiate,613,38,negotiation skills,1
+skilled negotiator,264,38,negotiation skills,0.9393606207
+negotiator,790,38,negotiation skills,0.823019114
+ability to respond to rapidly changing situations,108,39,ability to respond to rapidly changing situations,nan
+ability to promptly respond to rapidly changing situations,103,39,ability to respond to rapidly changing situations,nan
+ability to set goals,282,40,ability to achieve goals,nan
+ability to meet goals,421,40,ability to achieve goals,nan
+achieving goals,149,40,ability to achieve goals,0.7311416887
+demonstrating a sense of urgency to achieve goals,430,40,ability to achieve goals,nan
+ability to demonstrate a sense of urgency to achieve goals,42,40,ability to achieve goals,nan
+ability to achieve results,8,40,ability to achieve goals,nan
+ability to achieve goals,558,40,ability to achieve goals,nan
+ability to set and meet goals,652,40,ability to achieve goals,nan
+ability to carry out a task in time,757,41,ability to work within deadlines,nan
+ability to complete assigned tasks according to deadlines,31,41,ability to work within deadlines,nan
+ability to carry out task in time,796,41,ability to work within deadlines,nan
+ability to perform under deadlines,671,41,ability to work within deadlines,nan
+ability to handle multiple tasks while adhering to deadlines,60,41,ability to work within deadlines,nan
+ability to work and meet deadlines,791,41,ability to work within deadlines,nan
+ability to adhere to deadlines,12,41,ability to work within deadlines,nan
+ability to work within deadlines,388,41,ability to work within deadlines,nan
+ability to work meet deadlines,415,41,ability to work within deadlines,nan
+meeting deadlines,437,41,ability to work within deadlines,0.8217862376
+ability to complete tasks according to deadlines,33,41,ability to work within deadlines,nan
+ability to work under strict deadlines,132,41,ability to work within deadlines,nan
+ability to work within required deadlines,792,41,ability to work within deadlines,nan
+ability to work within strict deadlines,794,41,ability to work within deadlines,nan
+ability to work within tight deadlines,140,41,ability to work within deadlines,nan
+ability to meet terms,257,41,ability to work within deadlines,nan
+ability to deliever tasks on time,534,41,ability to work within deadlines,nan
+ability to handle tight deadlines,63,41,ability to work within deadlines,nan
+ability to complete the tasks to assigned deadlines,413,41,ability to work within deadlines,nan
+ability to respect deadlines,107,41,ability to work within deadlines,nan
+plan the work to carry out a task in time,524,41,ability to work within deadlines,nan
+ability to focus on meet deadlines,51,41,ability to work within deadlines,nan
+ability to meet deadlines,675,41,ability to work within deadlines,nan
+deadline oriented,547,41,ability to work within deadlines,0.8539664312
+commitment to meeting deadlines,163,41,ability to work within deadlines,nan
+ability to meet a schedule,81,41,ability to work within deadlines,nan
+ability to complete the tasks in a timely manner,514,41,ability to work within deadlines,nan
+ability to work under deadlines,407,41,ability to work within deadlines,nan
+ability to meet tight deadlines,83,41,ability to work within deadlines,nan
+ability to responsibly complete work according to deadlines,795,41,ability to work within deadlines,nan
+ability to work according to deadlines,452,41,ability to work within deadlines,nan
+ability to complete work according to deadlines,34,41,ability to work within deadlines,nan
+ability to meet deadlines under pressure,82,41,ability to work within deadlines,nan
+ability to work within short deadline,793,41,ability to work within deadlines,nan
+ability to balance deadlines,383,41,ability to work within deadlines,nan
+able to adhere to deadlines,143,41,ability to work within deadlines,nan
+work in deadline oriented,352,41,ability to work within deadlines,nan
+commitment to accountability,162,42,responsible,1
+responsible personality,623,42,responsible,1
+ability to take responsibility,797,42,responsible,nan
+responsible person,504,42,responsible,0.9142026882
+ability to take responsibilities,110,42,responsible,nan
+accountability,247,42,responsible,0.8494985431
+responsable,735,42,responsible,0.7808975665
+responsibility,763,42,responsible,0.8713982006
+sense of responsibility,481,42,responsible,0.7815103449
+responsible,307,42,responsible,0.8169846281
+respectful,685,43,respectful,0.7269473627
+respect for colleagues,362,43,respectful,0.862783943
+willingness to listen and respect colleagues,639,43,respectful,nan
+respect for colleagues and stakeholders,444,43,respectful,nan
+customer development skills,171,44,customer development skills,1
+customer orientation,172,45,client skills,0.9719724455
+client skills,663,45,client skills,0.8815328922
+client orientation,600,45,client skills,0.9057445506
+customer orientation skills,447,45,client skills,1
+customer service ethic,173,45,client skills,0.7842834339
+client oriented,597,45,client skills,0.918943773
+customer service ethics,798,45,client skills,1
+ability to work in a cross cultural environment,799,46,ability to work in an international environment,nan
+able to work as part of an international team,523,46,ability to work in an international environment,nan
+ability to manage a multinational staff,450,46,ability to work in an international environment,nan
+comfortable in working in an international environment,705,46,ability to work in an international environment,nan
+ability to work with multinational staff,621,46,ability to work in an international environment,nan
+ability to work with multinational groups,137,46,ability to work in an international environment,nan
+ability to work and communicate with multinational groups,114,46,ability to work in an international environment,nan
+intercultural skills,347,46,ability to work in an international environment,1
+comfortable in dealing in an international environment,318,46,ability to work in an international environment,nan
+ability to work in an international environment,522,46,ability to work in an international environment,nan
+ability to work in a multicultural environment,281,46,ability to work in an international environment,nan
+ability to work in multicultural environment,398,46,ability to work in an international environment,nan
+ability to work in a crosscultural environment,634,46,ability to work in an international environment,nan
+skills to build a team,488,47,team building skills,nan
+team building skills,606,47,team building skills,0.970401452
+teambuilding skills,660,47,team building skills,1
+team builder,227,47,team building skills,0.9123065816
+capacity building skills,691,48,capacity building skills,0.9697621822
+diplomatic manner,394,49,diplomatic,1
+diplomacy skills,178,49,diplomatic,1
+ability to communicate with diplomacy,651,49,diplomatic,nan
+ability to work diplomatically,119,49,diplomatic,nan
+diplomatic,511,49,diplomatic,0.970608425
+diplomacy,428,49,diplomatic,0.9700618751
+self organized,436,50,self organisational skills,1
+self organisational skills,630,50,self organisational skills,1
+ability to lead resultsbased management,69,51,management skills,nan
+project management,821,51,management skills,0.8423219965
+program management skills,372,51,management skills,1
+ability to manage,80,51,management skills,1
+managing skills,378,51,management skills,1
+management skill,380,51,management skills,0.9100889653
+management skills,696,51,management skills,1
+project management skills,642,51,management skills,0.9696790599
+conflict management skills,800,52,conflict management,1
+conflict management,169,52,conflict management,0.9054692798
+ability to summarize information,543,53,ability to collect information,nan
+ability to collect information,739,53,ability to collect information,nan
+ability to effectively present information,414,53,ability to collect information,nan
+communication abilities,802,54,communication skills,0.9400679232
+skills to communicate,801,54,communication skills,1
+ability to communicate information in a clear and approachable manner,313,54,communication skills,nan
+communications skills,440,54,communication skills,1
+communicating skills,426,54,communication skills,1
+ability to communicate effectively,357,54,communication skills,nan
+ability to communicate with clients,29,54,communication skills,nan
+communication skill,429,54,communication skills,1
+communicator,245,54,communication skills,0.9717332802
+able to easily communicate,364,54,communication skills,nan
+ability to communicate,395,54,communication skills,1
+able to communicate,471,54,communication skills,0.8929771392
+ability to communicate effectively at all levels,27,54,communication skills,nan
+ability to communicate with people,412,54,communication skills,nan
+communicative,254,54,communication skills,0.9388716807
+communication skills,745,54,communication skills,1
+communicate easily,278,54,communication skills,0.9614254502
+unquestioned principles and behavior,234,55,unquestioned principles and behavior,nan
+presentation skills,592,56,presentation skills,1
+professional presentation,563,56,presentation skills,0.9064386899
+humor,535,57,humor,0.8484324664
+ability to sell,109,58,sales driven,0.9081245203
+sales driven,269,58,sales driven,0.7217175495
+self awareness,581,59,self awareness,0.8506838051
+assertive,154,60,confident,0.851803672
+self confidence,287,60,confident,1
+confident personality,168,60,confident,0.9679666734
+selfconfident,214,60,confident,1
+assertiveness,155,60,confident,0.9100563884
+confident,455,60,confident,0.9092143001
+self confident,507,60,confident,1
+self driven,295,61,self driven,1
+self directed,724,61,self driven,0.819344175
+motivation,316,62,motivated,0.8531376394
+self motivated,376,62,motivated,1
+motivated,510,62,motivated,0.9409181513
+self motivation,604,62,motivated,0.9720510175
+level of motivation,348,62,motivated,0.9409137671
+ability to work being motivated,116,62,motivated,nan
+ability to interact,279,63,ability to interact,1
+ability to interact with individuals and groups,303,63,ability to interact,nan
+ability to interact with groups,625,63,ability to interact,nan
+ability to interact with individuals,461,63,ability to interact,nan
+ability to maintain positive relationships,768,64,ability to maintain relationships,nan
+ability to establish connections,46,64,ability to maintain relationships,nan
+ability to develop partnership,275,64,ability to maintain relationships,nan
+ability to establish positive relationships,479,64,ability to maintain relationships,nan
+ability to maintain relationships,758,64,ability to maintain relationships,nan
+ability to manage relationships,240,64,ability to maintain relationships,nan
+ability to establish working relationships,47,64,ability to maintain relationships,nan
+ability to build and maintain lasting client relationships,23,64,ability to maintain relationships,nan
+ability to establish and maintain business relationships,302,64,ability to maintain relationships,nan
+ability to build partnership,24,64,ability to maintain relationships,nan
+ability to maintain relationship with partners,679,64,ability to maintain relationships,nan
+relationship builder,283,64,ability to maintain relationships,0.9672756984
+ability to establish relationship with partners,301,64,ability to maintain relationships,nan
+skills to manage relationships,803,64,ability to maintain relationships,nan
+ability to establish connections with new retailers,45,64,ability to maintain relationships,nan
+ability to establish relationships,397,64,ability to maintain relationships,nan
+client relationships,160,64,ability to maintain relationships,0.7896812886
+ability to establish relations,244,64,ability to maintain relationships,nan
+ability to handle multiple priorities,58,65,ability to handle multiple priorities,nan
+ability to organize and prioritize workload,87,65,ability to handle multiple priorities,nan
+flexibility to shift priorities simultaneously,184,65,ability to handle multiple priorities,nan
+ability to shift priorities simultaneously,804,65,ability to handle multiple priorities,nan
+ability to shift priorities,416,65,ability to handle multiple priorities,nan
+ability to focus on priorities,53,65,ability to handle multiple priorities,nan
+ability to balance multiple priorities,521,65,ability to handle multiple priorities,nan
+diligent,774,66,diligent,0.7901132895
+capable of being a team leader,778,67,ability to lead project teams,nan
+ability to lead team members,384,67,ability to lead project teams,nan
+ability to lead project teams,68,67,ability to lead project teams,nan
+ability to lead a diverse team,515,67,ability to lead project teams,nan
+ability to motivate team members,251,67,ability to lead project teams,nan
+ability to lead in a team environment,66,67,ability to lead project teams,nan
+ability to integrate team members,286,67,ability to lead project teams,nan
+ability to maintain confidentiality of the information,73,68,ability to maintain confidentiality,nan
+ability to maintain confidentiality,456,68,ability to maintain confidentiality,nan
+ability to deal with confidential information,683,68,ability to maintain confidentiality,nan
+ability to handle confidential issues,776,68,ability to maintain confidentiality,nan
+ability to handle confidential information,714,68,ability to maintain confidentiality,nan
+international outlook,271,69,international outlook,0.7899546031
+ability to make sound decisions,439,70,make decisions,nan
+ability to take direction,640,70,make decisions,nan
+ability to take decisions independently,238,70,make decisions,nan
+decision making skills,381,70,make decisions,1
+ability to make decisions,74,70,make decisions,nan
+decision making abilities,175,70,make decisions,1
+ability to take appropriate decisions,506,70,make decisions,nan
+decision maker,174,70,make decisions,0.9398697115
+ability to propose practical solutions,105,70,make decisions,nan
+ability to appropriately make decisions,15,70,make decisions,nan
+make decisions,199,70,make decisions,0.908613503
+makes timely decisions,502,70,make decisions,1
+proactive,344,71,proactive,0.8472197573
+proactive approach,477,71,proactive,1
+punctuality,717,72,punctual,0.819499165
+punctual,692,72,punctual,1
+professional attitude,213,73,professional manner,1
+professional manner,555,73,professional manner,0.8798326788
+professional personality,805,73,professional manner,0.938175184
+professionalism,644,73,professional manner,0.7609022195
+ability to work in a professional team environment,737,73,professional manner,nan
+ability to report,106,74,reporting skills,0.9683170495
+correct reporting,346,74,reporting skills,0.9040747144
+reporting skills,350,74,reporting skills,0.967942015
+ability to correct reporting,579,74,reporting skills,nan
+coordination skills,618,75,ability to coordinate,0.9700172287
+coordinating skills,750,75,ability to coordinate,1
+ability to coordinate,40,75,ability to coordinate,1
+initiative person,191,76,initiative,1
+initiative thinking,321,76,initiative,1
+ability to demonstrate initiative,677,76,initiative,nan
+initiative,404,76,initiative,0.9701997002
+take initiative,572,76,initiative,0.938881991
+working using own initiative,273,76,initiative,nan
+presonal initiative,375,76,initiative,nan
+ability to take initiative,609,76,initiative,nan
+initiative driven,727,76,initiative,0.9058237977
+self initiative,571,76,initiative,0.9374742876
+work ethics,235,77,work ethic,0.9075279473
+work ethic,467,77,work ethic,0.9062796966
+sense of ethics,806,78,sense of ethics,1
+analytical thinking skills,755,79,analytical skills,1
+ability for analytical thinking,1,79,analytical skills,nan
+analytical abilities,680,79,analytical skills,0.971571855
+analytical mind,564,79,analytical skills,1
+analytical skills,442,79,analytical skills,1
+analytic skills,339,79,analytical skills,1
+analysis skills,538,79,analytical skills,0.9688090382
+analytical thinking,309,79,analytical skills,0.9710316724
+ability to think analytically,710,79,analytical skills,nan
+ability to articulate in clear concise understandable terms,690,80,articulate,nan
+ability to articulate a clear vision,654,80,articulate,nan
+articulate,760,80,articulate,0.9402330715
+ability to think conceptually,304,81,conceptual skills,nan
+conceptual skills,706,81,conceptual skills,1
+conceptual thinking,167,81,conceptual skills,1
+strategic thinking,807,82,strategic planning,0.8442447244
+ability to lead strategic planning,70,82,strategic planning,nan
+strategic planning,222,82,strategic planning,0.8171411015
+ability to think strategically,408,82,strategic planning,nan
+ability for strategic thinking,5,82,strategic planning,nan
+ability to work within time limits,733,83,ability to work within time frames,nan
+able to work under time tight constraints,293,83,ability to work within time frames,nan
+ability to work within strict time,139,83,ability to work within time frames,nan
+ability to work within strict time frames,329,83,ability to work within time frames,nan
+ability to work within time frames,141,83,ability to work within time frames,nan
+ability to work within flexible time frames,138,83,ability to work within time frames,nan
+able to work within strict timelines,259,83,ability to work within time frames,nan
+ability to work with time limitations,520,83,ability to work within time frames,nan
+ability to work in timely fashion,129,83,ability to work within time frames,nan
+ability to work with limited time frame,489,83,ability to work within time frames,nan
+ability to complete tasks in a timely manner,658,83,ability to work within time frames,nan
+flexibility to work within strict time frames,186,83,ability to work within time frames,nan
+ability to keep within time limits,747,83,ability to work within time frames,nan
+ability to train staff,700,84,ability to provide training,nan
+skills in training,218,84,ability to provide training,0.7890953705
+ability to provide training,343,84,ability to provide training,nan
+training skills,509,84,ability to provide training,0.78361336
+time management,478,85,time management,0.9683365343
+ability to manage time,79,85,time management,nan
+timemanagement skills,355,85,time management,1
+time management skills,577,85,time management,1
+manages time effectively,704,85,time management,0.9411520102
+mature personality,341,86,maturity,0.9375322314
+maturity,682,86,maturity,0.724998229
+active personality,151,87,active person,1
+active person,150,87,active person,0.8637786153
+character,159,88,character,0.7610257393
+ability to work independently,305,89,capability to work independently,nan
+ability to work independently in a fastpaced environment,130,89,capability to work independently,nan
+ability to work being selfdirected,117,89,capability to work independently,nan
+independent worker,190,89,capability to work independently,0.9373218308
+ablity to work independently,607,89,capability to work independently,nan
+able to work independently,369,89,capability to work independently,nan
+capability to work independently,400,89,capability to work independently,nan
+ability to function independently,356,89,capability to work independently,nan
+cultural sensitivity,729,90,cultural sensitivity,0.9071926939
+sensitivity in working with multiple cultures,808,90,cultural sensitivity,nan
+sensitivity in working with multiple cultures and beliefs,587,90,cultural sensitivity,nan
+sensitivity,449,91,sensitivity,0.9399242998
+political awareness,314,92,political awareness,0.8768325009
+ability to grow personally within the practice,485,93,willing to grow in skill,nan
+willing to grow in skill,541,93,willing to grow in skill,nan
+ability to work calmly,389,94,calm,nan
+calm,158,94,calm,0.9110402929
+ability to remain calm under pressure,248,94,calm,nan
+ability to work in multitask environment,441,95,ability to work in a multitask environment,nan
+ability to work in a multitask environment,123,95,ability to work in a multitask environment,nan
+ability to operate in a multitasking enviroment,365,95,ability to work in a multitask environment,nan
+able to persuade through influence,338,96,influencing skills,nan
+able to persuade,290,96,influencing skills,1
+talent for persuading people,226,96,influencing skills,nan
+influencing skills,656,96,influencing skills,1
+ability to persuade,824,96,influencing skills,0.9700990824
+tact,772,97,discretion,0.9690049602
+ability to work tactfully,759,97,discretion,nan
+tactful,620,97,discretion,1
+ability to communicate with tact,260,97,discretion,nan
+deal tactfully with the public,689,97,discretion,nan
+tactful manner,617,97,discretion,0.9446988826
+ability to work  in a fastpaced environment,335,98,ability to work  in a fastpaced environment,nan
+ability to work in a fastpaced environment,560,98,ability to work  in a fastpaced environment,nan
+ability to integrate immediately into the fast moving environment,619,98,ability to work  in a fastpaced environment,nan
+capability to adjust to a fast paced environment,730,98,ability to work  in a fastpaced environment,nan
+positive,615,99,positive,0.8164071449
+positive attitude,331,99,positive,0.9682974889
+ability to plan work,93,100,planning skills,nan
+ability to plan the work,475,100,planning skills,nan
+scheduling skills,698,100,planning skills,1
+ability to plan,610,100,planning skills,0.9721353744
+planning skills,767,100,planning skills,0.9701678146
+quality minded,809,101,dedication to quality,0.9267163336
+dedication to quality,702,101,dedication to quality,0.8786682743
+ability to work in cooperation,648,102,work collaboratively,nan
+ability to promote collaboration within the team,667,102,work collaboratively,nan
+ability to cooperation,37,102,work collaboratively,0.9517793019
+work in close cooperation,284,102,work collaboratively,nan
+ability to work collaboratively,399,102,work collaboratively,nan
+ability to work cooperatively,470,102,work collaboratively,nan
+ability to facilitate a collaborative work environment,292,102,work collaboratively,nan
+work collaboratively,243,102,work collaboratively,0.8211402191
+cooperation skills,596,102,work collaboratively,1
+autonomy,157,103,autonomy,0.7529100547
+ability to work alone,113,103,autonomy,nan
+ability to work individually,342,103,autonomy,nan
+ability to work being self directed,277,103,autonomy,nan
+capable of working individually,530,103,autonomy,nan
+ability to work in a team while being self directed,777,103,autonomy,nan
+able to deal with complex issues,748,104,able to deal with complex issues,nan
+reliable personality,255,105,reliable,1
+reliable,267,105,reliable,0.9394394157
+coaching skills,769,106,coaching,0.9381882722
+ability to coach staff,294,106,coaching,nan
+coaching,161,106,coaching,0.7880970946
+ability to prioritize a workload,553,107,ability to handle a workload,nan
+ability to organize a workload,810,107,ability to handle a workload,nan
+ability to handle a workload,536,107,ability to handle a workload,nan
+ability to organize workload,90,107,ability to handle a workload,nan
+ability to analyse problems,595,108,ability to analyse problems,nan
+ability to analyze,588,108,ability to analyse problems,1
+ability to analyze problems,811,108,ability to analyse problems,nan
+ability to work as a self starter,719,109,self starter,nan
+self starters,373,109,self starter,1
+willingness to be a self starter,548,109,self starter,nan
+self starter,351,109,self starter,0.9721114054
+friendly personality,731,110,friendly personality,1
+innovative thinking,192,111,innovative,0.8225597653
+ability to develop innovative approaches,659,111,innovative,nan
+innovativeness,665,111,innovative,0.7782817369
+innovative,574,111,innovative,0.7229177215
+energetic,385,112,energetic,0.9094767632
+methodical,486,113,methodical,0.8191230041
+monitoring skills,265,114,monitoring skills,0.9682208469
+enthusiastic,746,115,enthusiastic,0.8439709318
+enthusiasm,463,115,enthusiastic,0.9092040979
+enthusiastic personality,180,115,enthusiastic,0.9412139716
+speaking ability,418,116,verbal skills,1
+public speaking skills,310,116,verbal skills,0.9683730263
+verbal skills,513,116,verbal skills,1
+oral skills,202,116,verbal skills,1
+public speaking,812,116,verbal skills,0.9082743075
+speak convincingly in public,744,116,verbal skills,nan
+ability to win new business,586,117,ability to win new business,nan
+ambitious personality,712,118,ambitious,0.9713098041
+ambitious,153,118,ambitious,0.8528253416
+personable,370,119,personable,0.9420370561
+creativity,505,120,creative,0.9072295196
+be creative,823,120,creative,0.9704893359
+ability to work creatively,118,120,creative,nan
+creativity thinking,320,120,creative,0.8800606641
+ability to thin creatively,111,120,creative,nan
+ability to think creatively,664,120,creative,nan
+creative thinking,422,120,creative,0.9383863922
+creative,605,120,creative,0.7595454669
+out of the box thinker,498,120,creative,nan
+creative approach,722,120,creative,0.9686273442
+creative thinking skills,359,120,creative,0.9390059064
+creative imagination,668,121,imagination,1
+imagination,297,121,imagination,0.7531152862
+ability to work in a tense situation,593,122,ability to be flexible in demanding situations,nan
+ability to be flexible in demanding situations,19,122,ability to be flexible in demanding situations,nan
+ability to intervene in crisis situation,551,122,ability to be flexible in demanding situations,nan
+reasoning skills,624,123,reasoning skills,1
+patience,740,124,patience,1
+attractive personality,462,125,attractive personality,0.8368540027
+judgement skills,402,126,judgment,0.9703967635
+judgment skills,194,126,judgment,1
+judgment,749,126,judgment,0.940203349
+ability to exercise judgment,726,126,judgment,nan
+sound judgment,635,126,judgment,1
+accuracy,697,127,accurate,0.8752036636
+accuracy in work,147,127,accurate,0.9715482935
+accurate,148,127,accurate,0.8474296161
+consulting skills,317,128,consulting skills,0.9695086685
+managerial skills,693,129,managerial skills,0.9083307441
+managerial ability,643,129,managerial skills,0.9401824998
+empathy,709,130,empathy,0.9684002014
+sympathy,224,131,sympathy,0.8416559821
+dedicated person,272,132,dedication,0.9677076257
+dedication,629,132,dedication,0.878435482
+tolerant,232,133,tolerant,0.8449460623
+ability to conceptualize,602,134,ability to conceptualize,0.9405105775
+conceptualization skills,512,134,ability to conceptualize,1
+lively personality,713,135,lively personality,1
+interpersonal skills,580,136,interpersonal skills,0.9079318443
+ability to foster a spirit of unity,54,137,ability to maintain a spirit of unity,nan
+ability to foster and maintain a spirit of unity,584,137,ability to maintain a spirit of unity,nan
+ability to maintain a spirit of unity,72,137,ability to maintain a spirit of unity,nan
+ability to foster and maintain a spirit of unity teamwork and cooperation,673,137,ability to maintain a spirit of unity,nan
+social skills,684,138,social skills,0.8423387718
+sociable personality,219,138,social skills,1
+willing to travel,770,139,willing to travel,0.8780598104
+ability to travel,720,139,willing to travel,1
+willingness to travel,628,139,willing to travel,0.9081912153
+mentoring skills,253,140,mentoring skills,1
+disciplined,753,141,disciplined,0.7221253012
+counselling skills,308,142,counselling skills,0.9405067302
+administrative skills,527,143,administrative skills,0.969692897
+critical thinking,566,144,critical thinking,1
+ability to think critically,736,144,critical thinking,nan
+critical thinking skills,638,144,critical thinking,0.9709506254
+capability to understand requirements and policies,556,145,capability to understand requirements and policies,nan
+capability to implement requirements and policies,360,145,capability to understand requirements and policies,nan
+constructive feedback,699,146,constructive feedback,0.7586988721
+ability to advocate for others,379,147,advocacy skills,nan
+advocacy skills,152,147,advocacy skills,1
+discretion,280,148,discretion,0.7840388899
+ingenuity,322,149,ingenuity,0.7552193893
+wellorganized,666,150,organized,0.8158879099
+well organized,701,150,organized,0.903348928
+organized person,203,150,organized,1
+organized,298,150,organized,1
+telephone skills,410,151,telephone skills,0.9400668356
+ability to communicate on telephone,28,151,telephone skills,nan
+listen skills,674,152,listening skills,1
+willingness to listen,567,152,listening skills,0.8123117358
+ability to listen to others opinions,468,152,listening skills,nan
+able to listen to others opinions,554,152,listening skills,nan
+listening skills,198,152,listening skills,0.9685932403
+ability to listen,645,152,listening skills,1
+marketing skills,641,153,marketing skills,0.9706358077
+ability to coordinate marketing,38,153,marketing skills,nan
+ability to epxress thoughts,44,154,ability to present ideas,nan
+ability to express ideas clearly and concisely,312,154,ability to present ideas,nan
+ability to express ideas concisely,334,154,ability to present ideas,nan
+ability to express thoughts clearly,49,154,ability to present ideas,nan
+ability to present information in a concise manner,97,154,ability to present ideas,nan
+ability to exchange ideas,48,154,ability to present ideas,nan
+ability to express ideas clearly,622,154,ability to present ideas,nan
+ability to communicate ideas effectively,367,154,ability to present ideas,nan
+ability to present ideas in a concise manner,94,154,ability to present ideas,nan
+ability to present ideas in a wellorganized manner,95,154,ability to present ideas,nan
+ability to present information in a wellorganized manner,98,154,ability to present ideas,nan
+ability to present ideas,96,154,ability to present ideas,nan
+adept at networking,423,155,adept at networking,1
+personal interest in the environment,239,156,personal interest in the environment,nan
+attentive,518,157,attentive,0.9057162252
+ability to operate efficiently,330,158,ability to work efficiently,nan
+ability to work efficiently,121,158,ability to work efficiently,nan
+ability to make recommendations,591,159,ability to make recommendations,nan
+educational skills,263,160,educational skills,0.940530875
+ability to educate others,743,160,educational skills,nan
+personal integrity,209,161,personal integrity,0.969370903
+cheerful personality,565,162,cheerful personality,1
+dynamic personality,542,163,dynamic person,0.9721419728
+dynamic person,179,163,dynamic person,1
+ability to focus on details,50,164,attention to detail,nan
+detailed oriented,526,164,attention to detail,0.9660306231
+attention to detail,427,164,attention to detail,0.9416149834
+detail oriented,655,164,attention to detail,0.9361642295
+attention to details,562,164,attention to detail,0.9688470457
+attentive to details,632,164,attention to detail,0.9478242016
+ability to adapt to rapidly changing situations,10,165,ability to adapt,nan
+ability to adapt to dynamic business environment,9,165,ability to adapt,nan
+ability to work in various settings,497,165,ability to adapt,nan
+ability to adapt,11,165,ability to adapt,0.9711427222
+systematic manner,594,166,systematic,0.8487011339
+systematic,225,166,systematic,0.8167120426
+ability to respond to immediate staff needs,583,167,capabilities to identify needs,nan
+capabilities to identify needs,458,167,capabilities to identify needs,nan
+ability to be affirmative,18,168,ability to be affirmative,nan
+communication abilities in an international environment,813,169,cross cultural communication,nan
+cross cultural communication skills,516,169,cross cultural communication,nan
+cross cultural communication,822,169,cross cultural communication,1
+ability to communicate with multinational groups,30,169,cross cultural communication,nan
+ability to get along with people,55,170,ability to get along with people,nan
+ability to handle quick turnaround,61,171,ability to handle quick turnaround,nan
+abstract thinking,146,172,abstract thinking,1
+ability to improve skills,568,173,ability to improve skills,nan
+ability to work with continuous quality improvement,134,173,ability to improve skills,nan
+delegation skills,176,174,delegation skills,1
+memory skills,200,175,memory skills,1
+rigorous in the work,814,176,rigorous in the work,nan
+outgoing,205,177,outgoing,0.7251852661
+outgoing personality,204,177,outgoing,1
+selflearner,215,178,self learning,1
+self learning,815,178,self learning,0.7832247066
+selflearning,216,178,self learning,0.8517550866
+curious,170,179,curious,0.7915010511
+ability to works with minimal guidance,550,180,ability to work without supervision,nan
+ability to work unsupervised,133,180,ability to work without supervision,nan
+ability to work with minimum supervision,135,180,ability to work without supervision,nan
+ability to work without supervision,142,180,ability to work without supervision,nan
+ability to work efficiently without supervision,120,180,ability to work without supervision,nan
+ability to manage ongoing programs,296,181,ability to manage a team,nan
+ability to coordinate project staff,39,181,ability to manage a team,nan
+people management skills,206,181,ability to manage a team,1
+staff management skills,221,181,ability to manage a team,0.9367109251
+team management,817,181,ability to manage a team,0.724567762
+ability to manage a team,76,181,ability to manage a team,nan
+team management skills,742,181,ability to manage a team,1
+personal management skills,405,181,ability to manage a team,0.9693547438
+ability to manage people,77,181,ability to manage a team,nan
+staff management,819,181,ability to manage a team,0.8189856422
+people management,820,181,ability to manage a team,1
+personal management,818,181,ability to manage a team,0.8420854089
+ability to organize project teams,88,181,ability to manage a team,nan
+ability to manage project teams,78,181,ability to manage a team,nan
+personality skills,451,182,personality skills,1
+attendance during normal working hours,156,183,attendance during normal working hours,nan
+ability of training results assessment,7,184,ability of training results assessment,nan
+ability of monitoring results assessment,6,184,ability of training results assessment,nan
+ability to effectively respond to questions,738,185,ability to respond to questions,nan
+ability to respond to questions,268,185,ability to respond to questions,nan
+ability to make trade offs,75,186,ability to make trade offs,nan
+ability to overcome challenges,91,187,ability to overcome challenges,nan
+forward thinker,816,188,forward thinker,0.8819997089
+able to drive important projects successfully,144,189,able to drive important projects successfully,nan

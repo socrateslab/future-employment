@@ -1,0 +1,949 @@
+skill_id,skill_name,candidate_confidence
+0,a team oriented mentality,nan
+1,ability for analytical thinking,nan
+2,ability for long working hours,nan
+3,ability for multitasking under tight deadlines,nan
+4,ability for results orientation,nan
+5,ability for strategic thinking,nan
+6,ability of monitoring results assessment,nan
+7,ability of training results assessment,nan
+8,ability to achieve results,nan
+9,ability to adapt to dynamic business environment,nan
+10,ability to adapt to rapidly changing situations,nan
+11,ability to adapt,0.9711427222
+12,ability to adhere to deadlines,nan
+13,ability to anticipate and prevent problems,nan
+14,ability to anticipate problems,nan
+15,ability to appropriately make decisions,nan
+16,ability to articulate problems,nan
+17,ability to be a member of a team,nan
+18,ability to be affirmative,nan
+19,ability to be flexible in demanding situations,nan
+20,ability to be flexible,nan
+21,ability to be part of a big team,nan
+22,ability to be part of a multicultural team,nan
+23,ability to build and maintain lasting client relationships,nan
+24,ability to build partnership,nan
+25,ability to carry out numerous tasks,nan
+26,ability to clearly articulate problems,nan
+27,ability to communicate effectively at all levels,nan
+28,ability to communicate on telephone,nan
+29,ability to communicate with clients,nan
+30,ability to communicate with multinational groups,nan
+31,ability to complete assigned tasks according to deadlines,nan
+32,ability to complete assigned tasks,nan
+33,ability to complete tasks according to deadlines,nan
+34,ability to complete work according to deadlines,nan
+35,ability to concisely articulate problems,nan
+36,ability to contribute to project teams,nan
+37,ability to cooperation,0.9573691189
+38,ability to coordinate marketing,nan
+39,ability to coordinate project staff,nan
+40,ability to coordinate,1
+41,ability to cope with stress,nan
+42,ability to demonstrate a sense of urgency to achieve goals,nan
+43,ability to demonstrate creativity to problem solving,nan
+44,ability to epxress thoughts,nan
+45,ability to establish connections with new retailers,nan
+46,ability to establish connections,nan
+47,ability to establish working relationships,nan
+48,ability to exchange ideas,nan
+49,ability to express thoughts clearly,nan
+50,ability to focus on details,nan
+51,ability to focus on meet deadlines,nan
+52,ability to focus on multiple tasks,nan
+53,ability to focus on priorities,nan
+54,ability to foster a spirit of unity,nan
+55,ability to get along with people,nan
+56,ability to get fun solving technical problems,nan
+57,ability to grasp a problem,nan
+58,ability to handle multiple priorities,nan
+59,ability to handle multiple tasks simultaneously,nan
+60,ability to handle multiple tasks while adhering to deadlines,nan
+61,ability to handle quick turnaround,nan
+62,ability to handle simultaneous multiple projects,nan
+63,ability to handle tight deadlines,nan
+64,ability to identify problems,nan
+65,ability to independently manage multiple projects at once,nan
+66,ability to lead in a team environment,nan
+67,ability to lead people,nan
+68,ability to lead project teams,nan
+69,ability to lead resultsbased management,nan
+70,ability to lead strategic planning,nan
+71,ability to learn easily,nan
+72,ability to maintain a spirit of unity,nan
+73,ability to maintain confidentiality of the information,nan
+74,ability to make decisions,nan
+75,ability to make trade offs,nan
+76,ability to manage a team,nan
+77,ability to manage people,nan
+78,ability to manage project teams,nan
+79,ability to manage time,nan
+80,ability to manage,1
+81,ability to meet a schedule,nan
+82,ability to meet deadlines under pressure,nan
+83,ability to meet tight deadlines,nan
+84,ability to motivate others in a team environment,nan
+85,ability to motivate others,nan
+86,ability to multi task,nan
+87,ability to organize and prioritize workload,nan
+88,ability to organize project teams,nan
+89,ability to organize work,nan
+90,ability to organize workload,nan
+91,ability to overcome challenges,nan
+92,ability to perform multiple tasks at the same time,nan
+93,ability to plan work,nan
+94,ability to present ideas in a concise manner,nan
+95,ability to present ideas in a wellorganized manner,nan
+96,ability to present ideas,nan
+97,ability to present information in a concise manner,nan
+98,ability to present information in a wellorganized manner,nan
+99,ability to prevent problems,nan
+100,ability to prioritise workload activities,nan
+101,ability to prioritize workload,nan
+102,ability to prioritize,1
+103,ability to promptly respond to rapidly changing situations,nan
+104,ability to propose alternatives to problem solving,nan
+105,ability to propose practical solutions,nan
+106,ability to report,0.993853421
+107,ability to respect deadlines,nan
+108,ability to respond to rapidly changing situations,nan
+109,ability to sell,0.9081245203
+110,ability to take responsibilities,nan
+111,ability to thin creatively,nan
+112,ability to undertake multiple tasks,nan
+113,ability to work alone,nan
+114,ability to work and communicate with multinational groups,nan
+115,ability to work as part of a team on multiple tasks,nan
+116,ability to work being motivated,nan
+117,ability to work being selfdirected,nan
+118,ability to work creatively,nan
+119,ability to work diplomatically,nan
+120,ability to work efficiently without supervision,nan
+121,ability to work efficiently,nan
+122,ability to work in a flexible schedule,nan
+123,ability to work in a multitask environment,nan
+124,ability to work in a team environment,nan
+125,ability to work in a team while being selfdirected,nan
+126,ability to work in international teams,nan
+127,ability to work in multidisciplinary teams,nan
+128,ability to work in stressful situations,nan
+129,ability to work in timely fashion,nan
+130,ability to work independently in a fastpaced environment,nan
+131,ability to work independently on multiple tasks,nan
+132,ability to work under strict deadlines,nan
+133,ability to work unsupervised,nan
+134,ability to work with continuous quality improvement,nan
+135,ability to work with minimum supervision,nan
+136,ability to work with multidisciplinary team,nan
+137,ability to work with multinational groups,nan
+138,ability to work within flexible time frames,nan
+139,ability to work within strict time,nan
+140,ability to work within tight deadlines,nan
+141,ability to work within time frames,nan
+142,ability to work without supervision,nan
+143,able to adhere to deadlines,nan
+144,able to drive important projects successfully,nan
+145,able to understand tasks quickly,nan
+146,abstract thinking,1
+147,accuracy in work,0.9715482935
+148,accurate,0.8474296161
+149,achieving goals,0.7311416887
+150,active person,0.8637786153
+151,active personality,1
+152,advocacy skills,1
+153,ambitious,0.8528253416
+154,assertive,0.9888623955
+155,assertiveness,0.9100563884
+156,attendance during normal working hours,nan
+157,autonomy,0.7529100547
+158,calm,0.9110402929
+159,character,0.7610257393
+160,client relationships,0.7896812886
+161,coaching,0.7880970946
+162,commitment to accountability,1
+163,commitment to meeting deadlines,nan
+164,commitment to teamwork,0.8839908943
+165,commitment to work,0.8584862921
+166,commitment to gender equity,nan
+167,conceptual thinking,1
+168,confident personality,0.9679666734
+169,conflict management,0.9054692798
+170,curious,0.7915010511
+171,customer development skills,1
+172,customer orientation,0.9719724455
+173,customer service ethic,0.7842834339
+174,decision maker,1
+175,decision making abilities,1
+176,delegation skills,1
+177,desire to learn new things,nan
+178,diplomacy skills,1
+179,dynamic person,1
+180,enthusiastic personality,0.9412139716
+181,enthusiastic to learn,0.8803678879
+182,flexibility to handle a variety of tasks simultaneously,nan
+183,flexibility to perform other duties,nan
+184,flexibility to shift priorities simultaneously,nan
+185,flexibility to work under pressure,nan
+186,flexibility to work within strict time frames,nan
+187,hard worker,0.9386645005
+188,hard working person,1
+189,independent in problems solving,nan
+190,independent worker,0.9373218308
+191,initiative person,1
+192,innovative thinking,0.8225597653
+193,interact with the team,nan
+194,judgment skills,1
+195,leadership ability,0.9682086099
+196,learn quickly,1
+197,learning skills,0.8820749567
+198,listening skills,0.9685932403
+199,make decisions,0.908613503
+200,memory skills,1
+201,multitask oriented,1
+202,oral skills,1
+203,organized person,1
+204,outgoing personality,1
+205,outgoing,0.7251852661
+206,people management skills,1
+207,people oriented,0.7398125569
+208,personal commitment,0.7230253824
+209,personal integrity,0.969370903
+210,problem solver,0.9427590467
+211,problem solving,0.9398006331
+212,problemsolving,0.9384111688
+213,professional attitude,1
+214,selfconfident,1
+215,selflearner,1
+216,selflearning,0.8517550866
+217,sensitivity to gender equity,nan
+218,skills in training,0.7890953705
+219,sociable personality,1
+220,solution oriented,0.8831245039
+221,staff management skills,0.9367109251
+222,strategic planning,0.8171411015
+223,supervision skills,0.9690807876
+224,sympathy,0.8416559821
+225,systematic,0.8167120426
+226,talent for persuading people,nan
+227,team builder,0.9123065816
+228,team work approach,1
+229,team working ability,nan
+230,teamwork approach,0.8654991243
+231,teamworker,0.9448956869
+232,tolerant,0.8449460623
+233,undertake multiple tasks at the same time,nan
+234,unquestioned principles and behavior,nan
+235,work ethics,0.9075279473
+236,polite manners,1
+237,organizational skills,1
+238,ability to take decisions independently,nan
+239,personal interest in the environment,nan
+240,ability to manage relationships,nan
+241,ability to adapt to flexible timelines,nan
+242,ability to develop relations,nan
+243,work collaboratively,0.8211402191
+244,ability to establish relations,nan
+245,communicator,0.9717332802
+246,willingness to work long hours when required,nan
+247,accountability,0.8494985431
+248,ability to remain calm under pressure,nan
+249,adjust to demanding work,nan
+250,ability to direct the work,nan
+251,ability to motivate team members,nan
+252,ability to execute complicated tasks with minimal supervision,nan
+253,mentoring skills,1
+254,communicative,0.9388716807
+255,reliable personality,1
+256,goal oriented,0.7900101128
+257,ability to meet terms,nan
+258,ability to work on multiple tasks,nan
+259,able to work within strict timelines,nan
+260,ability to communicate with tact,nan
+261,willingness to work under pressure,nan
+262,willing to obtain new skills,nan
+263,educational skills,0.940530875
+264,skilled negotiator,0.9393606207
+265,monitoring skills,0.9682208469
+266,flexible with hours,0.942590802
+267,reliable,0.9394394157
+268,ability to respond to questions,nan
+269,sales driven,0.8217783729
+270,ability to function in a pressured work environment,nan
+271,international outlook,0.7899546031
+272,dedicated person,0.9677076257
+273,working using own initiative,nan
+274,problem solving orientation,1
+275,ability to develop partnership,nan
+276,able to include shift work,nan
+277,ability to work being self directed,nan
+278,communicate easily,0.9614254502
+279,ability to interact,1
+280,discretion,0.7840388899
+281,ability to work in a multicultural environment,nan
+282,ability to set goals,nan
+283,relationship builder,0.9672756984
+284,work in close cooperation,nan
+285,ability to work in a team,nan
+286,ability to integrate team members,nan
+287,self confidence,1
+288,proposal writing skills,0.9688354902
+289,team working abilities,nan
+290,able to persuade,1
+291,flexibility to handle a variety of tasks and shift priorities simultaneously,nan
+292,ability to facilitate a collaborative work environment,nan
+293,able to work under time tight constraints,nan
+294,ability to coach staff,nan
+295,self driven,1
+296,ability to manage ongoing programs,nan
+297,imagination,0.7531152862
+298,organized,1
+299,capable of working as a part of a team,nan
+300,ability to work as a part a team,nan
+301,ability to establish relationship with partners,nan
+302,ability to establish and maintain business relationships,nan
+303,ability to interact with individuals and groups,nan
+304,ability to think conceptually,nan
+305,ability to work independently,nan
+306,interest to learn,0.9676461287
+307,responsible,0.8169846281
+308,counselling skills,0.9405067302
+309,analytical thinking,0.9710316724
+310,public speaking skills,0.9683730263
+311,ability to work in team,nan
+312,ability to express ideas clearly and concisely,nan
+313,ability to communicate information in a clear and approachable manner,nan
+314,political awareness,0.8768325009
+315,willing to learn,1
+316,motivation,0.8531376394
+317,consulting skills,0.9695086685
+318,comfortable in dealing in an international environment,nan
+319,ability to motivate people,nan
+320,creativity thinking,0.8800606641
+321,initiative thinking,1
+322,ingenuity,0.7552193893
+323,ability to complete challenging tasks,nan
+324,quick to learn,0.9678223322
+325,versatility,0.8239724113
+326,leadership,0.9879790019
+327,ability to manage multiple tasks,nan
+328,open to new ideas,nan
+329,ability to work within strict time frames,nan
+330,ability to operate efficiently,nan
+331,positive attitude,0.9682974889
+332,ability to troubleshoot problems,nan
+333,quick learning skills,1
+334,ability to express ideas concisely,nan
+335,ability to work  in a fastpaced environment,nan
+336,ability to learn quickly,nan
+337,willing to work overtime,nan
+338,able to persuade through influence,nan
+339,analytic skills,1
+340,people skills,0.9667756824
+341,mature personality,0.9375322314
+342,ability to work individually,nan
+343,ability to provide training,nan
+344,proactive,0.9661728223
+345,efficient when under pressure,nan
+346,correct reporting,0.9040747144
+347,intercultural skills,1
+348,level of motivation,0.9531706277
+349,interpretation skills,1
+350,reporting skills,0.967942015
+351,self starter,0.9721114054
+352,work in deadline oriented,nan
+353,work in team,0.7833988513
+354,public relations skills,1
+355,timemanagement skills,1
+356,ability to function independently,nan
+357,ability to communicate effectively,nan
+358,work in pressure,0.8768136779
+359,creative thinking skills,0.9390059064
+360,capability to implement requirements and policies,nan
+361,open minded,0.9395735199
+362,respect for colleagues,0.862783943
+363,able to work hard,nan
+364,able to easily communicate,nan
+365,ability to operate in a multitasking enviroment,nan
+366,supervisory skills,0.9399956166
+367,ability to communicate ideas effectively,nan
+368,willingness to work extended hours and weekends,nan
+369,able to work independently,nan
+370,personable,0.9420370561
+371,willingness to learn,1
+372,program management skills,1
+373,self starters,1
+374,willingness to obtain new skills,nan
+375,presonal initiative,nan
+376,self motivated,1
+377,flexibility with working hours when necessary,nan
+378,managing skills,1
+379,ability to advocate for others,nan
+380,management skill,0.9100889653
+381,decision making skills,1
+382,ability to work under the pressure,nan
+383,ability to balance deadlines,nan
+384,ability to lead team members,nan
+385,energetic,0.9094767632
+386,negotiation skills,1
+387,eager to learn,0.7882352543
+388,ability to work within deadlines,nan
+389,ability to work calmly,nan
+390,capable of working as part of a team,nan
+391,willing to learn new skills,nan
+392,ability to manage multiple tasks under tight deadlines,nan
+393,open to change,0.9372064132
+394,diplomatic manner,1
+395,ability to communicate,1
+396,ability to present proposals,nan
+397,ability to establish relationships,nan
+398,ability to work in multicultural environment,nan
+399,ability to work collaboratively,nan
+400,capability to work independently,nan
+401,work irregular hours,0.8482795024
+402,judgement skills,0.9703967635
+403,able to understand detailed instructions,nan
+404,initiative,0.9701997002
+405,personal management skills,0.9693547438
+406,results oriented,0.7066709931
+407,ability to work under deadlines,nan
+408,ability to think strategically,nan
+409,ability to work effectively with a diverse team,nan
+410,telephone skills,0.958239261
+411,ability to work cooperatively as part of a team,nan
+412,ability to communicate with people,nan
+413,ability to complete the tasks to assigned deadlines,nan
+414,ability to effectively present information,nan
+415,ability to work meet deadlines,nan
+416,ability to shift priorities,nan
+417,capacity to work under pressure,nan
+418,speaking ability,1
+419,willingness to work overtime,nan
+420,capacity to work for long hours,nan
+421,ability to meet goals,nan
+422,creative thinking,0.9383863922
+423,adept at networking,1
+424,willingness to work long or unusual hours,nan
+425,team player,0.8825113106
+426,communicating skills,1
+427,attention to detail,0.9416149834
+428,diplomacy,0.9700618751
+429,communication skill,1
+430,demonstrating a sense of urgency to achieve goals,nan
+431,service minded approach to work,nan
+432,ability to prioritize competing tasks even under pressure,nan
+433,willingness to work long hours,nan
+434,ability to plan and organize work for others,nan
+435,facilitating skills,0.9351277052
+436,self organized,1
+437,meeting deadlines,0.8217862376
+438,ability to speak politely,nan
+439,ability to make sound decisions,nan
+440,communications skills,1
+441,ability to work in multitask environment,nan
+442,analytical skills,1
+443,ability to organize tasks,nan
+444,respect for colleagues and stakeholders,nan
+445,ability to working with groups of people,nan
+446,ability to handle a variety of tasks,nan
+447,customer orientation skills,1
+448,problemsolving attitude,0.9416735388
+449,sensitivity,0.9399242998
+450,ability to manage a multinational staff,nan
+451,personality skills,1
+452,ability to work according to deadlines,nan
+453,ability to learn fast,nan
+454,ability to work as a team member,nan
+455,confident,0.9092143001
+456,ability to maintain confidentiality,nan
+457,ability to resolve problems,nan
+458,capabilities to identify needs,nan
+459,ability to organize,1
+460,ability to prioritize multiple projects,nan
+461,ability to interact with individuals,nan
+462,attractive personality,0.8368540027
+463,enthusiasm,0.9092040979
+464,working in a team,nan
+465,team interaction skills,0.9347324462
+466,quick learner,0.9717329892
+467,work ethic,0.9895343257
+468,ability to listen to others opinions,nan
+469,flexibility to handle a variety of tasks,nan
+470,ability to work cooperatively,nan
+471,able to communicate,0.8929771392
+472,commitment to team approaches,nan
+473,ability to follow directions,nan
+474,action oriented,0.8211264672
+475,ability to plan the work,nan
+476,leadership skills,0.9717429444
+477,proactive approach,1
+478,time management,0.9683365343
+479,ability to establish positive relationships,nan
+480,ability to motivate,0.9500226055
+481,sense of responsibility,0.7815103449
+482,polite,0.9411600868
+483,work under pressure,1
+484,ability to apply the gained knowledge,nan
+485,ability to grow personally within the practice,nan
+486,methodical,0.8191230041
+487,ability to organize the work,nan
+488,skills to build a team,nan
+489,ability to work with limited time frame,nan
+490,willingness to work flexible hours,nan
+491,managing tasks,0.9414932921
+492,results orientation,0.8777826975
+493,commitment to the wellbeing of children,nan
+494,problem solving skills,1
+495,ability to work as part of a team,nan
+496,openness for new experience,nan
+497,ability to work in various settings,nan
+498,out of the box thinker,nan
+499,able to adapt to flexible timelines,nan
+500,able to work under pressure,nan
+501,flexible,0.7589113234
+502,makes timely decisions,1
+503,ability to work as a team,nan
+504,responsible person,0.9142026882
+505,creativity,0.9072295196
+506,ability to take appropriate decisions,nan
+507,self confident,1
+508,ability to set priorities,nan
+509,training skills,0.78361336
+510,motivated,0.9409181513
+511,diplomatic,0.970608425
+512,conceptualization skills,1
+513,verbal skills,1
+514,ability to complete the tasks in a timely manner,nan
+515,ability to lead a diverse team,nan
+516,cross cultural communication skills,nan
+517,organizational capabilities,1
+518,attentive,0.9057162252
+519,organization skills,1
+520,ability to work with time limitations,nan
+521,ability to balance multiple priorities,nan
+522,ability to work in an international environment,nan
+523,able to work as part of an international team,nan
+524,plan the work to carry out a task in time,nan
+525,courteous manner,0.9437373178
+526,detailed oriented,0.9660306231
+527,administrative skills,0.969692897
+528,serviceminded approach to work,nan
+529,flexible with work hours,nan
+530,capable of working individually,nan
+531,skills in managing tasks,nan
+532,willing to work under time pressure,nan
+533,human relations capacity,nan
+534,ability to deliever tasks on time,nan
+535,humor,0.8484324664
+536,ability to handle a workload,nan
+537,flexibility,0.8210264454
+538,analysis skills,1
+539,teamwork,0.7237600294
+540,facilitation skills,0.9705118301
+541,willing to grow in skill,nan
+542,dynamic personality,0.9721419728
+543,ability to summarize information,nan
+544,team oriented,0.7271953043
+545,ability to learn authoring technologies,nan
+546,ability to problem solve independently,nan
+547,deadline oriented,0.8539664312
+548,willingness to be a self starter,nan
+549,ability to work in a group,nan
+550,ability to works with minimal guidance,nan
+551,ability to intervene in crisis situation,nan
+552,openminded,0.9072389328
+553,ability to prioritize a workload,nan
+554,able to listen to others opinions,nan
+555,professional manner,0.8798326788
+556,capability to understand requirements and policies,nan
+557,properly maintain relations with customers,nan
+558,ability to achieve goals,nan
+559,ability to manage tasks independently,nan
+560,ability to work in a fastpaced environment,nan
+561,ability to work under stress,nan
+562,attention to details,0.9688470457
+563,professional presentation,0.9064386899
+564,analytical mind,1
+565,cheerful personality,1
+566,critical thinking,1
+567,willingness to listen,0.8123117358
+568,ability to improve skills,nan
+569,hard working,1
+570,ability to interpret,0.9680162026
+571,self initiative,0.9374742876
+572,take initiative,0.938881991
+573,result oriented,1
+574,innovative,0.7229177215
+575,ability to prioritise tasks,nan
+576,ability to work with children,nan
+577,time management skills,1
+578,organizing skills,1
+579,ability to correct reporting,nan
+580,interpersonal skills,0.9079318443
+581,self awareness,0.8506838051
+582,ability to work overtime,nan
+583,ability to respond to immediate staff needs,nan
+584,ability to foster and maintain a spirit of unity,nan
+585,ability to work under time pressure,nan
+586,ability to win new business,nan
+587,sensitivity in working with multiple cultures and beliefs,nan
+588,ability to analyze,1
+589,team commitment,0.7247840594
+590,quickly learn new technologies,nan
+591,ability to make recommendations,nan
+592,presentation skills,1
+593,ability to work in a tense situation,nan
+594,systematic manner,0.8487011339
+595,ability to analyse problems,nan
+596,cooperation skills,1
+597,client oriented,0.918943773
+598,skills to lead effective staff,nan
+599,work within a team,nan
+600,client orientation,0.9057445506
+601,ability to work in a stressful environment,nan
+602,ability to conceptualize,0.9405105775
+603,willingness to work with youth,nan
+604,self motivation,0.9720510175
+605,creative,0.7595454669
+606,team building skills,0.970401452
+607,ablity to work independently,nan
+608,results driven,0.8249867214
+609,ability to take initiative,nan
+610,ability to plan,0.9721353744
+611,willingness to obtain new knowledge,nan
+612,desire to learn,0.9717033106
+613,ability to negotiate,1
+614,ability to work as a part of team,nan
+615,positive,0.8164071449
+616,ability to handle multiple tasks,nan
+617,tactful manner,0.9446988826
+618,coordination skills,0.9700172287
+619,ability to integrate immediately into the fast moving environment,nan
+620,tactful,1
+621,ability to work with multinational staff,nan
+622,ability to express ideas clearly,nan
+623,responsible personality,1
+624,reasoning skills,1
+625,ability to interact with groups,nan
+626,team worker,0.8751592532
+627,ability to juggle multiple projects simultaneously,nan
+628,willingness to travel,0.9081912153
+629,dedication,0.878435482
+630,self organisational skills,1
+631,ability to lead and supervise,nan
+632,attentive to details,0.9478242016
+633,able to work in a team,nan
+634,ability to work in a crosscultural environment,nan
+635,sound judgment,1
+636,goals oriented,1
+637,organisational skills,1
+638,critical thinking skills,0.9775091005
+639,willingness to listen and respect colleagues,nan
+640,ability to take direction,nan
+641,marketing skills,0.9706358077
+642,project management skills,0.9696790599
+643,managerial ability,0.9401824998
+644,professionalism,0.7609022195
+645,ability to listen,1
+646,ability to work as a member of a team,nan
+647,willingness to be flexible with hours,nan
+648,ability to work in cooperation,nan
+649,ability to understand directions,nan
+650,work under stress,1
+651,ability to communicate with diplomacy,nan
+652,ability to set and meet goals,nan
+653,problemsolving skills,1
+654,ability to articulate a clear vision,nan
+655,detail oriented,0.9685346104
+656,influencing skills,1
+657,able to work as part of a team,nan
+658,ability to complete tasks in a timely manner,nan
+659,ability to develop innovative approaches,nan
+660,teambuilding skills,1
+661,courteous,0.8441755892
+662,willing to perform other duties,nan
+663,client skills,0.8815328922
+664,ability to think creatively,nan
+665,innovativeness,0.7782817369
+666,wellorganized,0.8158879099
+667,ability to promote collaboration within the team,nan
+668,creative imagination,1
+669,ability to prioritize work,nan
+670,ability to complete multiple tasks,nan
+671,ability to perform under deadlines,nan
+672,team work ability,nan
+673,ability to foster and maintain a spirit of unity teamwork and cooperation,nan
+674,listen skills,1
+675,ability to meet deadlines,nan
+676,ability to perform several activities at the same time,nan
+677,ability to demonstrate initiative,nan
+678,manage multiple tasks,1
+679,ability to maintain relationship with partners,nan
+680,analytical abilities,0.971571855
+681,logical abilities,nan
+682,maturity,0.724998229
+683,ability to deal with confidential information,nan
+684,social skills,0.8423387718
+685,respectful,0.7269473627
+686,teamwork skills,1
+687,team work skills,0.9790201275
+688,ability to work with others,nan
+689,deal tactfully with the public,nan
+690,ability to articulate in clear concise understandable terms,nan
+691,capacity building skills,nan
+692,punctual,1
+693,managerial skills,0.9083307441
+694,skill to describe problems,nan
+695,willing to work irregular hours,nan
+696,management skills,1
+697,accuracy,0.8752036636
+698,scheduling skills,1
+699,constructive feedback,0.7586988721
+700,ability to train staff,nan
+701,well organized,0.903348928
+702,dedication to quality,0.8786682743
+703,ability to work as a part of a team,nan
+704,manages time effectively,0.9411520102
+705,comfortable in working in an international environment,nan
+706,conceptual skills,1
+707,ability to work in teamworkbased environment,nan
+708,hardworking,0.9378758055
+709,empathy,0.9684002014
+710,ability to think analytically,nan
+711,ability to handle multiple tasks under tight deadlines,nan
+712,ambitious personality,0.9713098041
+713,lively personality,1
+714,ability to handle confidential information,nan
+715,able to work unusual work hours,nan
+716,ability to nurture relations,nan
+717,punctuality,0.819499165
+718,ability to perform multiple tasks,nan
+719,ability to work as a self starter,nan
+720,ability to travel,1
+721,ability to complete multiple challenging tasks,nan
+722,creative approach,0.9686273442
+723,organizer,0.738241054
+724,self directed,0.819344175
+725,ability to learn,0.9391447424
+726,ability to exercise judgment,nan
+727,initiative driven,0.9058237977
+728,goaloriented,0.9072152983
+729,cultural sensitivity,0.9071926939
+730,capability to adjust to a fast paced environment,nan
+731,friendly personality,1
+732,dedication to work hard under pressure,nan
+733,ability to work within time limits,nan
+734,ability to function as part of a team,nan
+735,responsable,0.7808975665
+736,ability to think critically,nan
+737,ability to work in a professional team environment,nan
+738,ability to effectively respond to questions,nan
+739,ability to collect information,nan
+740,patience,1
+741,quick to learn new technologies,nan
+742,team management skills,1
+743,ability to educate others,nan
+744,speak convincingly in public,nan
+745,communication skills,1
+746,enthusiastic,0.8439709318
+747,ability to keep within time limits,nan
+748,able to deal with complex issues,nan
+749,judgment,0.940203349
+750,coordinating skills,1
+751,ability to resolve difficult problems,nan
+752,motivating,0.9066968125
+753,disciplined,0.7221253012
+754,able to multitask,1
+755,analytical thinking skills,1
+756,ability to prioritize tasks,nan
+757,ability to carry out a task in time,nan
+758,ability to maintain relationships,nan
+759,ability to work tactfully,nan
+760,articulate,0.9402330715
+761,willingness to adjust to demanding work schedule,nan
+762,organising skills,0.9699450813
+763,responsibility,0.8713982006
+764,team spirit,0.8155379013
+765,respect for diversity,1
+766,ability to work under pressure,nan
+767,planning skills,0.9701678146
+768,ability to maintain positive relationships,nan
+769,coaching skills,0.9381882722
+770,willing to travel,0.8780598104
+771,team based management style,nan
+772,tact,0.9690049602
+773,team working skills,0.9401354614
+774,diligent,0.7901132895
+775,ability to work with people,nan
+776,ability to handle confidential issues,nan
+777,ability to work in a team while being self directed,nan
+778,capable of being a team leader,nan
+779,ability to deliver under pressure,nan
+780,willing to work hard,nan
+781,hardworker,0.9415483342
+782,problem solving abilities,0.968593988
+783,propose alternatives to problem solving,nan
+784,ability to work in teamwork based environment,nan
+785,ability to work in team work based environment,nan
+786,service mentality,0.9140622397
+787,ability to work on many tasks at the same time without supervision,nan
+788,willing to complete the given tasks,nan
+789,prioritization skills,0.9709967887
+790,negotiator,0.823019114
+791,ability to work and meet deadlines,nan
+792,ability to work within required deadlines,nan
+793,ability to work within short deadline,nan
+794,ability to work within strict deadlines,nan
+795,ability to responsibly complete work according to deadlines,nan
+796,ability to carry out task in time,nan
+797,ability to take responsibility,nan
+798,customer service ethics,1
+799,ability to work in a cross cultural environment,nan
+800,conflict management skills,1
+801,skills to communicate,1
+802,communication abilities,0.9400679232
+803,skills to manage relationships,nan
+804,ability to shift priorities simultaneously,nan
+805,professional personality,0.938175184
+806,sense of ethics,1
+807,strategic thinking,0.8442447244
+808,sensitivity in working with multiple cultures,nan
+809,quality minded,0.9267163336
+810,ability to organize a workload,nan
+811,ability to analyze problems,nan
+812,public speaking,0.9082743075
+813,communication abilities in an international environment,nan
+814,rigorous in the work,nan
+815,self learning,0.7832247066
+816,forward thinker,0.8819997089
+817,team management,0.724567762
+818,personal management,0.8420854089
+819,staff management,0.8189856422
+820,people management,1
+821,project management,0.8423219965
+822,cross cultural communication,1
+823,be creative,0.9704893359
+824,ability to persuade,0.9700990824
+825,multitasking skills,1
+826,able to prioritize,1
+827,quick learning,0.9682231
+828,proposal writing,0.7287409383
+829,ability to work effectively with people,nan
+830,public speaking ability,0
+831,childfriendly,0
+832,dynamic,0.6267295352
+833,independent,0.2073392685
+834,team working,0.7281590033
+835,aggressive,0.1819115622
+836,lively,0.2483443821
+837,growth oriented,0.3013613408
+838,leader,0.3916770335
+839,logical,0.8049577238
+840,easy going nature,0.3207044772
+841,progressive thinking,0.3253900853
+842,competitive,0.3275768011
+843,rhetoric,0.3293077938
+844,crosscultural sensitivity,0.3316090603
+845,innovation,0.3326422982
+846,pleasant,0.3595376358
+847,nice,0.375931797
+848,acceptance,0.3881043826
+849,loyalty,0.3916606354
+850,ethical standards,0.5724102073
+851,warm,0.3926945789
+852,schedule,0.4148722562
+853,courtesy,0.4208194338
+854,collegial,0.4239532229
+855,prompt,0.4264134863
+856,child friendly,0.4346592493
+857,thorough,0.4449172544
+858,dedicated,0.4476819931
+859,inspired,0.4684884277
+860,energy,0.4811930879
+861,vigorous,0.4812147723
+862,team work,0.550011149
+863,patient,0.4847443423
+864,easy going,0.4848171317
+865,availability,0.4851798492
+866,conceptualization,0.4930162875
+867,communicable,0.4968400122
+868,readiness to learn,0.5030481702
+869,sociable,0.5113371973
+870,friendly,0.5124262507
+871,business leader,0.5138500478
+872,building,0.5146638633
+873,consistent,0.515132601
+874,sharp,0.5204005809
+875,strategic vision,0.5235339348
+876,team member,0.5338955189
+877,work with team,0.5377267537
+878,counseling,0.5395123638
+879,professional,0.5440639743
+880,honest,0.5471360809
+881,manner,0.5485604593
+882,active,0.5490593939
+883,team interaction,0.549573031
+884,presentation,0.7575563008
+885,achiever,0.5698668175
+886,detailed,0.570905081
+887,affirmative,0.5739150515
+888,collaborative,0.5739176184
+889,commitment,0.9181642329
+890,committed,0.5800230379
+891,for advocacy,0.5926674814
+892,practical,0.5929838448
+893,honesty,0.603279001
+894,team building,0.6099147251
+895,originality,0.6131447049
+896,tolerance,0.6258653715
+897,encouraging innovation,0.6319545966
+898,smart,0.6329306424
+899,followthrough,0.634460542
+900,effectiveness,0.6346689404
+901,works collaboratively,0.6365418889
+902,diligence,0.6567822416
+903,rigorous,0.6598350165
+904,honesty and commitment,0.659836817
+905,challenger,0.6605726264
+906,team players,0.6618645986
+907,hospitable,0.6619061518
+908,professional ethics,0.6646430464
+909,result orientation,0.6648998749
+910,recruiting skills,0.6653067508
+911,run the department,0.6669041309
+912,productive,0.6684009301
+913,forward thinking,0.6685990273
+914,team leader,0.6699520594
+915,mature,0.6749665724
+916,team work spirit,0.6784954407
+917,self going,0.6792532717
+918,team leader personality,0.6825522142
+919,ethical,0.690588384
+920,trusted,0.6906816459
+921,talented,0.6910033804
+922,integrity,0.692722946
+923,innovation skills,0.6968517004
+924,discipline,0.71755676
+925,driven,0.9759884761
+926,for multitasking,0.7579351238
+927,organizational,0.7869268864
+928,to write,0.7896756463
+929,trouble shooting,0.8150367038
+930,human relations,0.836769516
+931,coordinate,0.8474409214
+932,efficient,0.8500771141
+933,personal initiative,0.8813491834
+934,passion,0.8819901134
+935,analytical,0.9088344189
+936,understanding,0.9110414666
+937,pleasant disposition,0.9391085381
+938,ability to anticipate,0.9436359639
+939,language skills,0.9690935926
+940,building skills,0.9697621822
+941,development skills,0.9705466638
+942,research skills,0.9718357939
+943,household skills,1
+944,object oriented skills,1
+945,computer skills,1
+946,writing skills,1
+947,written skills,1
