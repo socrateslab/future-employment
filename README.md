@@ -1,2 +1,1 @@
-# future-employment-research-code-and-data
-GitHub Pages
+卢林艳、李玉端、王成军 * (2022) 人工智能时代媒体行业的技能与未来就业：基于机器学习和网络分析. In Press. 新闻大学.
